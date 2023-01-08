@@ -1,6 +1,9 @@
 # Clicker
 Movimiento automatizado de raton. Por defecto, sin parametro se seleccionan 2 coordeandas aleatorias, durante 3 segundos.
 
+## Prerequisitos
+`pip install pynput`  
+
 ## Atributos
 **-m**: realizas tu las coordenadas. Sin argumento.  
 **-t**: modificar el tiempo entre movimiento. Defecto: 3 segundos. Numero.  
