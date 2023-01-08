@@ -48,7 +48,7 @@ def helpCommand():
     print('-m: realizas tu las coordenadas. Sin argumento.')
     print('-t: modificar el tiempo entre movimiento. Defecto: 3 segundos. Numero.')
     print('-p: numero de coordenadas que se generaran. Numero.')
-    print('-f: lee configuration.txt')
+    print('-f: lee configuration.txt. Sin argumento.')
     
 def checkArg(arg):
     try:
