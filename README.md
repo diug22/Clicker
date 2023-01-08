@@ -9,11 +9,11 @@ Movimiento automatizado de raton. Por defecto, sin parametro se seleccionan 2 co
 **-h**: comando de ayuda.  
 
 ## Ejemplos
-Ejecucción simple con 2 coordenadas creadas aleatorias, cada 3 segundos movimiento.
-`python clicker.py`
-Ejecucción 5 coordenadas creadas aleatorias, cada 2 segundos moviento.
-`python clicker.py -p 5 -t 2`
-Ejecucción 2 coordenadas seleccionadas por ti, cada 3 segundos moviento.
-`python clicker.py -m`
-Ejecucción almacenada en el archivo *configuracion.txt*
-`python clicker.py -f`
+Ejecucción simple con 2 coordenadas creadas aleatorias, cada 3 segundos movimiento.  
+`python clicker.py`  
+Ejecucción 5 coordenadas creadas aleatorias, cada 2 segundos moviento.  
+`python clicker.py -p 5 -t 2`  
+Ejecucción 2 coordenadas seleccionadas por ti, cada 3 segundos moviento.  
+`python clicker.py -m`  
+Ejecucción almacenada en el archivo *configuracion.txt*  
+`python clicker.py -f`  
