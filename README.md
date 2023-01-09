@@ -1,5 +1,5 @@
 # Clicker
-Movimiento automatizado de raton. Por defecto, sin parametro se seleccionan 2 coordeandas aleatorias, durante 3 segundos.
+Movimiento automatizado de raton con click. Por defecto, sin parametro se seleccionan 2 coordeandas aleatorias, durante 3 segundos.
 
 ## Prerequisitos
 `pip install pynput`  
@@ -20,3 +20,8 @@ Ejecucción 2 coordenadas seleccionadas por ti, cada 3 segundos moviento.
 `python clicker.py -m`  
 Ejecucción almacenada en el archivo *configuracion.txt*  
 `python clicker.py -f`  
+Ejecucción 5 coordenadas creadas por ti, cada 2 segundos moviento.  
+`python clicker.py -m -p 5 -t 2` 
+
+##Recomendación
+Es recomendable utilizar las coordenadas seleccionadas manualmente, ya que hace click y podria interceptar algún elemento.  
