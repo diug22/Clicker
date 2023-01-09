@@ -23,5 +23,5 @@ Ejecucción almacenada en el archivo *configuracion.txt*
 Ejecucción 5 coordenadas creadas por ti, cada 2 segundos moviento.  
 `python clicker.py -m -p 5 -t 2` 
 
-##Recomendación
+## Recomendación  
 Es recomendable utilizar las coordenadas seleccionadas manualmente, ya que hace click y podria interceptar algún elemento.  
