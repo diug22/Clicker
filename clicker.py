@@ -137,6 +137,7 @@ if __name__ == "__main__":
         except:
             index = 0
         mouse.position = configuration.coordenadas[index]
+        mouse.press(Button.left)
         index += 1
         time.sleep(configuration.sleep_time)
         
